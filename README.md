@@ -176,7 +176,7 @@ landing_portfolio/
 - **Imágenes con `alt`:** SVG con alt descriptivo
 - **Formulario con `<label>` vinculadas:** Presente en sección contacto
 - **Enlace visible a GitHub:** Header + Footer + Hero
-- **Despliegue Vercel:** Pendiente
+- **Despliegue Vercel:** https://landing-portfolio-nine.vercel.app/
 - **README.md con declaración IA:** Este archivo
 
 ---
